@@ -1,6 +1,6 @@
 # LSTM Autoencoders for Generating Passwords
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/apogiatzis/vae-lstm-autoencoder-password-generation/blob/master/standard_vaw_autoencoders.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/apogiatzis/vae-lstm-autoencoder-password-generation/blob/master/autoencoders.ipynb)
 
 This repository contains the relevant code for the Part 2 of the post series named ["Demystifying Generative Models by Generating Passwords"]().
 
